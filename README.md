@@ -2,7 +2,7 @@
 Student at 42 Lyon.
 
 
-# 🌐 Get in touch:
+## 🌐 Get in touch:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/avg38) 
 
 # 💻 Tech Stack:
