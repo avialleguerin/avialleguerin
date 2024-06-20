@@ -13,10 +13,10 @@ Student at 42 Lyon.
   | Project link | Description |  Languages/Techs | Final grade |
   | :- | :-: | :-: | :-: |
   | Netpractice | An introduction to networking and IP address | N/A | 100/100 |
-  | <a href="https://github.com/avg38/minishell">Minishell</a> | A custom implementation of bash based on the posix version | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 125/125 |
-  | <a href="https://github.com/avg38/Philosophers">Philosophers</a> | An introduction to multithreading and forking using mutexes and semaphores | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 125/125 |
-  | <a href="https://github.com/avg38/push_swap">Push_swap</a> | A sorting algorithm using 2 stacks and limited operations | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 100/100 |
-  | <a href="https://github.com/avg38/minitalk">Minitalk</a> | Hangle signals | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 100/100 |
+  | <a href="https://github.com/avg38/minishell">Minishell</a> | A custom implementation of bash based on the posix version | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 110/110 |
+  | <a href="https://github.com/avg38/Philosophers">Philosophers</a> | An introduction to multithreading and forking using mutexes and semaphores | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 100/100 |
+  | <a href="https://github.com/avg38/push_swap">Push_swap</a> | A sorting algorithm using 2 stacks and limited operations | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 125/125 |
+  | <a href="https://github.com/avg38/minitalk">Minitalk</a> | Hangle signals | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 125/125 |
   | <a href="https://github.com/avg38/FdF">FdF</a> | A graphical introduction project using an educative library | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 125/125 |
   | <a href="https://github.com/avg38/ft_printf">ft_printf</a> | Custom version of the libc printf function | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 100/100 |
   | <a href="https://github.com/avg38/get_next_line">get_next_line</a> | A C function to get lines from a file descriptor using a buffer size | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 100/100 |
@@ -27,7 +27,7 @@ Student at 42 Lyon.
   
   | Project link | Description |  Languages/Techs |
   | :- | :-: | :-: |
-  | <a href="https://github.com/avg38/amandine-vialleguerin.fr">Portfolio</a> | Make my Portfolio | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> |
+  | <a href="https://github.com/avg38/amandine-vialleguerin.fr">Portfolio</a> | Make my Portfolio |  <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?logo=debian&logoColor=white"> <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> <img alt="C" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img alt="C" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img alt="C" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">|
   | <a href="https://github.com/avg38/Scraping">Scraping</a> | Scrap a Website | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> |
   | <a href="https://github.com/avg38/sudoku">Sudoku</a> | Make a sudoku game | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> |
 
