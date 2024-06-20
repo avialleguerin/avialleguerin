@@ -16,8 +16,6 @@ Student at 42 Lyon.
   
   | Project link | Description |  Languages/Techs | Final grade |
   | :- | :-: | :-: | :-: |
-  | <a href="https://github.com/avg38/CPP_modules">CPP_modules</a> | An introductive project to C++ programming | <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"> | 100/100 |
-  | <a href="https://github.com/avg38/cub3d">Cub3D</a> | A Raycasting project aiming to reproduce Wolfenstein 3D | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 125/125 |
   | Netpractice | An introduction to networking and IP address | N/A | 100/100 |
   | <a href="https://github.com/avg38/minishell">Minishell</a> | A custom implementation of bash based on the posix version | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 125/125 |
   | <a href="https://github.com/avg38/Philosophers">Philosophers</a> | An introduction to multithreading and forking using mutexes and semaphores | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 125/125 |
