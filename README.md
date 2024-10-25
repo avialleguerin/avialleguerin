@@ -31,8 +31,3 @@ Student at 42 Lyon.
   | <a href="https://github.com/avg38/Scraping">Scraping</a> | Scrap a Website | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> |
   | <a href="https://github.com/avg38/sudoku">Sudoku</a> | Make a sudoku game | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> |
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=avg38&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=avg38&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=avg38&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
