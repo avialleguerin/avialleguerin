@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student at 42 Lyon.
+Student at 42 Lyon. Visit my portfolio at https://amandine-vg.netlify.app.
 
 
 ## 🌐 Get in touch:
