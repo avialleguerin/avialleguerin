@@ -29,7 +29,6 @@ Student at 42 Lyon. Visit my portfolio at https://amandine-vg.netlify.app.
   
   | Project link | Description |  Languages/Techs |
   | :- | :-: | :-: |
-  | <a href="https://github.com/avg38/amandine-vialleguerin.fr">Portfolio</a> | Make my Portfolio |  <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?logo=debian&logoColor=white"> <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> <img alt="C" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img alt="C" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img alt="C" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">|
   | <a href="https://github.com/avg38/Scraping">Scraping</a> | Scrap a Website | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> |
   | <a href="https://github.com/avg38/sudoku">Sudoku</a> | Make a sudoku game | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> |
 
