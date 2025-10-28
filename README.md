@@ -24,11 +24,3 @@ Student at 42 Lyon. Visit my portfolio at https://amandine-vg.netlify.app.
   | <a href="https://github.com/avg38/get_next_line">get_next_line</a> | A C function that reads a line from a file descriptor using a buffer size, handling file reading efficiently. | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 100/100 |
   | BornToBeRoot | A sysadmin project on a virtual machine, covering the fundamentals of system administration under Linux and Debian. | <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"> <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?logo=debian&logoColor=white"> | 100/100 |
   | <a href="https://github.com/avg38/libft">Libft</a> | A custom implementation of several standard C library functions (libc), designed to understand and master the basics of C programming. | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 125/125 |
-
-<h3>📚&emsp;Guardia Projects</h3>
-  
-  | Project link | Description |  Languages/Techs |
-  | :- | :-: | :-: |
-  | <a href="https://github.com/avg38/Scraping">Scraping</a> | Scrap a Website | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> |
-  | <a href="https://github.com/avg38/sudoku">Sudoku</a> | Make a sudoku game | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> |
-
